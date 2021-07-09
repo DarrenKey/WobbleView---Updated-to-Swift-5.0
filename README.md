@@ -6,8 +6,9 @@ WobbleView from https://github.com/dotintent/WobbleView updated to Swift 5.0.
 
 Just drag WobbleView.swift into your own project.
 
-**Quoting from the original project:
-**
+
+(These next few lines are straight from the original project:)
+
 
 
 ## Usage
