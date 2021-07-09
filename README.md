@@ -2,7 +2,14 @@
 
 WobbleView from https://github.com/dotintent/WobbleView updated to Swift 5.0. 
 
-Quoting from the original project:
+## Installation
+
+Just drag WobbleView.swift into your own project.
+
+**Quoting from the original project:
+**
+
+
 ## Usage
 
 Just create a WobbleView and change its position.  
